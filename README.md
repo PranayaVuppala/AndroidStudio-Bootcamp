@@ -1,4 +1,3 @@
-# AndroidStudio-Bootcamp
 # Android App Development Bootcamp & Appathon - 2024
 ### Sri Vishnu Engineering College For Women, Bhimavaram
 
